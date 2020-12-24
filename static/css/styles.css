@@ -4,13 +4,13 @@ body {
 }
 
 .navbar {
-    background-color: #8ff938;
+    background-color: #333333;
 }
 
 a {
-    color: #8ff938;
+    color: #f1f9f9;
 }
 
 a:hover {
-    color: #8ff938;
+    color: #f0f0f0;
   }
